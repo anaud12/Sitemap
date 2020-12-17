@@ -3,6 +3,7 @@ a{text-decoration:none;}
 #tap{width:100%; text-align:center;}
 #set{width:100%; margin:0 auto; display:flex; justify-content: space-around;}
 #set > .abox{width:300px; height: 700px; margin:10px; padding:10px;}
+#set > .abox > a{font-size:20px; font-weight:400;}
 .site{background-color:greenyellow; padding:30px; display:block; margin-bottom:10px; color:red; border-radius:25px;}
 .site:first-child{background-color:grey; color:white;}
 
