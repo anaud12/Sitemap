@@ -1,12 +1,12 @@
 body{width:100%; margin:0 auto;}
 a{text-decoration:none; font-size:20px; font-weight:400;}
-#tap{width:100%; text-align:center;}
+#tap{width:100%; text-align:center; margin-top:70px;}
 #set{width:80%; margin:0 auto; display:flex; justify-content: space-around;}
 #set > .abox{width:300px; height: 700px; margin:10px; padding:10px;}
 #set > .bbox{width:610px; height: 700px; margin:10px; padding:10px;}
 .site{background-color:greenyellow; padding:30px; display:block; margin-bottom:10px; color:red; border-radius:25px; border:1px solid black;}
 .site:hover{background-color: yellow; transition:all 0.5s;}
-.title{background-color:grey; color:white; padding:30px; display:block; margin-bottom:10px; border:3px solid black; border-radius:25px; font-size:20px;}
+.title{background-color:grey; color:white; padding:30px; display:block; margin-bottom:10px; border:3px solid black; border-radius:25px; font-size:20px; letter-spacing:5px;}
 .bbox > .site{width:240px; display: inline-block;}
 
 
